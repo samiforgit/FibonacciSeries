@@ -1,6 +1,7 @@
 # FibonacciSeries
 Aim :Calculation the Fibonacci Sequence of a given number</br>
-Example : Here you can find out easily Fibonacci Sequence of a number.
+This Project let you know Fibonacci Sequence of a number easily.</br>
+Just Check it out [Click Here](http://samiforpython2.pythonanywhere.com/)</br>
 Just you have to enter numbers,example given below.
 Fibonacci Sequence of 8 = 0,1,1,2,3,5,8,13 
 It basically follows xn = xn-1 + xn-2. this rules.
