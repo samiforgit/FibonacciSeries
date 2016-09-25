@@ -1,5 +1,5 @@
 # FibonacciSeries
-Aim :Calculation the Fibonacci Sequence of a given number
+Aim :Calculation the Fibonacci Sequence of a given number#
 Example : Here you can find out easily Fibonacci Sequence of a number.
 Just you have to enter numbers,example given below.
 Fibonacci Sequence of 8 = 0,1,1,2,3,5,8,13 
